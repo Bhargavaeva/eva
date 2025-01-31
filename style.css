@@ -35,3 +35,21 @@
     line-height: 100px;
     margin: 10px;
 }
+
+.box1 {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 100px;
+    margin: 10px;
+}
+
+.box2 {
+    width: 200px;
+    height: 100px;
+    background-color: lightcoral;
+    text-align: center;
+    line-height: 100px;
+    margin: 10px;
+}
