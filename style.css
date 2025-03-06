@@ -238,3 +238,34 @@ body {
 h1 {
   color: blue;
 }
+
+
+
+
+
+
+
+/* body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+.dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.card {
+  width: 250px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+.kpi {
+  font-size: 24px;
+  font-weight: bold;
+}
+.green { background-color: #d4edda; }
+.red { background-color: #f8d7da; }
+.blue { background-color: #cce5ff; } */
