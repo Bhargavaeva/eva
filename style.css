@@ -298,3 +298,12 @@ body {
 .green { background-color: #d4edda; }
 .red { background-color: #f8d7da; }
 .blue { background-color: #cce5ff; } 
+
+
+
+
+
+
+function showAlert() {
+  alert('Hello! You clicked the button.');
+} 
