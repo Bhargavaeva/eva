@@ -304,11 +304,18 @@ body {
 
 
 
-function showAlert() {
+function showAlert {
   alert('Hello! You clicked the button.');
 } 
 
 
-function showAlert() {
+function showAlert {
   alert('Hello! You clicked the button.');
 } 
+function showAlert {
+  alert('Hello! You clicked the button.');
+}
+
+function showAlert {
+  alert('Hello! You clicked the button.');
+}
